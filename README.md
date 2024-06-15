@@ -2,9 +2,14 @@
 Arquivos de estudo da disciplina de estrutura de dados
 
 ### Métodos de Ordenação
-Os métodos de ordenação vão ordenar uma lista em ordem crescente ou decrescente. Os métodos apresentados na disciplina foram:
+> Os métodos de ordenação vão ordenar uma lista em ordem crescente ou decrescente. Os métodos apresentados na disciplina foram:
 - Bubble
 - Inserction
 - Merge
 - Quick
 - Selection
+
+---
+### Listas de Exercícios
+> As listas de exercícios são exercícios propostos pelo professor para serem resolvidos em C. As listas apresentadas na disciplina foram:
+- Lista 1: Introdução a linguagem C com exercícios básicos;
