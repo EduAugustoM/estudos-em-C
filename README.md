@@ -1,6 +1,12 @@
 # Estudos em C
 Arquivos de estudo da disciplina de estrutura de dados
 
+### Recursividade
+> A recursividade é um termo usado para descrever o processo de repetição de um objeto de forma semelhante àquilo que já foi mostrado. Os principais exemplos de recursividadesão:
+- Calculadora de multiplicação
+- Fibonacci
+- Fatorial
+
 ### Métodos de Ordenação
 > Os métodos de ordenação vão ordenar uma lista em ordem crescente ou decrescente. Os métodos apresentados na disciplina foram:
 - Bubble
@@ -13,3 +19,4 @@ Arquivos de estudo da disciplina de estrutura de dados
 ### Listas de Exercícios
 > As listas de exercícios são exercícios propostos pelo professor para serem resolvidos em C. As listas apresentadas na disciplina foram:
 - Lista 1: Introdução a linguagem C com exercícios básicos;
+- Lista 2: Recursividade;
