@@ -7,6 +7,9 @@ Arquivos de estudo da disciplina de estrutura de dados
 - Fibonacci
 - Fatorial
 
+### Ponteiros
+> Ponteiros são variáveis que armazenam endereços de memória. Os ponteiros são usados para manipular variáveis e arrays.
+
 ### Métodos de Ordenação
 > Os métodos de ordenação vão ordenar uma lista em ordem crescente ou decrescente. Os métodos apresentados na disciplina foram:
 - Bubble
@@ -20,3 +23,4 @@ Arquivos de estudo da disciplina de estrutura de dados
 > As listas de exercícios são exercícios propostos pelo professor para serem resolvidos em C. As listas apresentadas na disciplina foram:
 - Lista 1: Introdução a linguagem C com exercícios básicos;
 - Lista 2: Recursividade;
+- Lista 3: Ponteiros;
