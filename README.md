@@ -2,42 +2,45 @@
 Arquivos de estudo da disciplina de estrutura de dados
 
 ### Recursividade
-> A recursividade È um termo usado para descrever o processo de repetiÁ„o de um objeto de forma semelhante ‡quilo que j· foi mostrado. Os principais exemplos de recursividades„o:
-- Calculadora de multiplicaÁ„o
+> A recursividade √© um termo usado para descrever o processo de repeti√ß√£o de um objeto de forma semelhante √†quilo que j√° foi mostrado. Os principais exemplos de recursividade s√£o:
+- Calculadora de multiplica√ß√£o
 - Fibonacci
 - Fatorial
 
 ### Ponteiros
-> Ponteiros s„o vari·veis que armazenam endereÁos de memÛria. Os ponteiros s„o usados para manipular vari·veis e arrays.
+> Ponteiros s√£o vari√°veis que armazenam endere√ßos de mem√≥ria. Os ponteiros s√£o usados para manipular vari√°veis e arrays.
 
-### MÈtodos de OrdenaÁ„o
-> Os mÈtodos de ordenaÁ„o s„o algoritmos que organizam os elementos de uma lista em uma ordem especÌfica. Os principais mÈtodos de ordenaÁ„o s„o:
+### M√©todos de Ordena√ß√£o
+> Os m√©todos de ordena√ß√£o s√£o algoritmos que organizam os elementos de uma lista em uma ordem espec√≠fica. Os principais m√©todos de ordena√ß√£o s√£o:
 - Bubble
-- Inserction
+- Insertion
 - Merge
 - Quick
 - Selection
 
 ### Structs
-> Structs s„o estruturas de dados que permitem armazenar diferentes tipos de dados em um ˙nico bloco de memÛria. As structs s„o usadas para criar tipos de dados personalizados.
+> Structs s√£o estruturas de dados que permitem armazenar diferentes tipos de dados em um √∫nico bloco de mem√≥ria. As structs s√£o usadas para criar tipos de dados personalizados.
 
 ### Listas Encadeadas
-> As listas encadeadas s„o estruturas de dados que armazenam elementos em uma sequÍncia linear. Cada elemento da lista È chamado de nÛ e contÈm um valor e um ponteiro para o prÛximo nÛ da lista. As listas encadeadas s„o usadas para armazenar dados de forma din‚mica e podem ser subdivididas em:
+> As listas encadeadas s√£o estruturas de dados que armazenam elementos em uma sequ√™ncia linear. Cada elemento da lista √© chamado de n√≥ e cont√©m um valor e um ponteiro para o pr√≥ximo n√≥ da lista. As listas encadeadas s√£o usadas para armazenar dados de forma din√¢mica e podem ser subdivididas em:
 - Simples
 - Duplamente encadeadas
 - Circulares
 
 ---
-### Listas de ExercÌcios
-> As listas de exercÌcios s„o exercÌcios propostos pelo professor para serem resolvidos em C. As listas apresentadas na disciplina foram:
-- Lista 1: IntroduÁ„o a linguagem C com exercÌcios b·sicos;
+### Listas de Exerc√≠cios
+> As listas de exerc√≠cios s√£o exerc√≠cios propostos pelo professor para serem resolvidos em C. As listas apresentadas na disciplina foram:
+- Lista 1: Introdu√ß√£o √† linguagem C com exerc√≠cios b√°sicos;
 - Lista 2: Recursividade;
 - Lista 3: Ponteiros;
-- Lista 4: MÈtodos de OrdenaÁ„o, bubble e selection;
-- Lista 5: Questıes gerais sobre a disciplina;
-- Lista 6: MÈtodos de OrdenaÁ„o;
+- Lista 4: M√©todos de Ordena√ß√£o, bubble e selection;
+- Lista 5: Quest√µes gerais sobre a disciplina;
+- Lista 6: M√©todos de Ordena√ß√£o;
 - Lista 7: Structs;
 - Lista 8: Structs;
 - Lista 9: Structs;
-- Lista 10: Structs e mÈtodos de ordenaÁ„o;
+- Lista 10: Structs e m√©todos de ordena√ß√£o;
 - Lista 11: Lista encadeada;
+
+### Materiais Complementares
+> Os materiais complementares s√£o arquivos auxiliares que servem como base para os estudos da disciplina, eles incluem a implementa√ß√£o dos c√≥digos das listas encadeadas, structures, m√©todos de ordena√ß√£o entre outros.
