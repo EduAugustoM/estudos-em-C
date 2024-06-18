@@ -18,6 +18,9 @@ Arquivos de estudo da disciplina de estrutura de dados
 - Quick
 - Selection
 
+### Structs
+> Structs são estruturas de dados que permitem armazenar diferentes tipos de dados em um único bloco de memória. As structs são usadas para criar tipos de dados personalizados.
+
 ---
 ### Listas de Exercícios
 > As listas de exercícios são exercícios propostos pelo professor para serem resolvidos em C. As listas apresentadas na disciplina foram:
@@ -27,3 +30,4 @@ Arquivos de estudo da disciplina de estrutura de dados
 - Lista 4: Métodos de Ordenação, bubble e selection;
 - Lista 5: Questões gerais sobre a disciplina;
 - Lista 6: Métodos de Ordenação;
+- Lista 7: Structs;
