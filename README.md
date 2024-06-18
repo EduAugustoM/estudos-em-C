@@ -21,6 +21,12 @@ Arquivos de estudo da disciplina de estrutura de dados
 ### Structs
 > Structs são estruturas de dados que permitem armazenar diferentes tipos de dados em um único bloco de memória. As structs são usadas para criar tipos de dados personalizados.
 
+### Listas Encadeadas
+> As listas encadeadas são estruturas de dados que armazenam elementos em uma sequência linear. Cada elemento da lista é chamado de nó e contém um valor e um ponteiro para o próximo nó da lista. As listas encadeadas são usadas para armazenar dados de forma dinâmica e podem ser subdivididas em:
+- Simples
+- Duplamente encadeadas
+- Circulares
+
 ---
 ### Listas de Exercícios
 > As listas de exercícios são exercícios propostos pelo professor para serem resolvidos em C. As listas apresentadas na disciplina foram:
@@ -31,3 +37,7 @@ Arquivos de estudo da disciplina de estrutura de dados
 - Lista 5: Questões gerais sobre a disciplina;
 - Lista 6: Métodos de Ordenação;
 - Lista 7: Structs;
+- Lista 8: Structs;
+- Lista 9: Structs;
+- Lista 10: Structs e métodos de ordenação;
+- Lista 11: Lista encadeada;
