@@ -26,3 +26,4 @@ Arquivos de estudo da disciplina de estrutura de dados
 - Lista 3: Ponteiros;
 - Lista 4: Métodos de Ordenação, bubble e selection;
 - Lista 5: Questões gerais sobre a disciplina;
+- Lista 6: Métodos de Ordenação;

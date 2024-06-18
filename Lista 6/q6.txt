@@ -1,0 +1,3 @@
+Questão 6 – Um amigo lhe diz que é capaz de ordenar qualquer conjunto de 6 números com no máximo 8 comparações. O seu amigo está falando a verdade ou mentindo? Justifique.
+
+Ele está mentindo. Não é possível ordenar qualquer conjunto de 6 números com apenas 8 comparações, pois o número mínimo de comparações necessárias, de acordo com a teoria da complexidade de algoritmos de ordenação, é maior do que 8.
