@@ -24,4 +24,5 @@ Arquivos de estudo da disciplina de estrutura de dados
 - Lista 1: Introdução a linguagem C com exercícios básicos;
 - Lista 2: Recursividade;
 - Lista 3: Ponteiros;
-- Lista 4: Métodos de Ordenação, bubble e selection.
+- Lista 4: Métodos de Ordenação, bubble e selection;
+- Lista 5: Questões gerais sobre a disciplina;
