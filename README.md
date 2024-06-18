@@ -11,7 +11,7 @@ Arquivos de estudo da disciplina de estrutura de dados
 > Ponteiros são variáveis que armazenam endereços de memória. Os ponteiros são usados para manipular variáveis e arrays.
 
 ### Métodos de Ordenação
-> Os métodos de ordenação vão ordenar uma lista em ordem crescente ou decrescente. Os métodos apresentados na disciplina foram:
+> Os métodos de ordenação são algoritmos que organizam os elementos de uma lista em uma ordem específica. Os principais métodos de ordenação são:
 - Bubble
 - Inserction
 - Merge
@@ -24,3 +24,4 @@ Arquivos de estudo da disciplina de estrutura de dados
 - Lista 1: Introdução a linguagem C com exercícios básicos;
 - Lista 2: Recursividade;
 - Lista 3: Ponteiros;
+- Lista 4: Métodos de Ordenação, bubble e selection.
